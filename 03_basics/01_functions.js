@@ -4,10 +4,6 @@ function sayMyName(){
     console.log("N");
     console.log("I");
     console.log("L");
-    console.log("R");
-    console.log("A");
-    console.log("N");
-    console.log("A");
 }
 
 // sayMyName()
