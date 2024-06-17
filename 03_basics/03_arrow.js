@@ -10,7 +10,7 @@ const user = {
 }
 
 // user.welcomeMessage()
-// user.username = "sam"
+// user.username = "aham"
 // user.welcomeMessage()
 
 // console.log(this);
