@@ -18,4 +18,7 @@ Object literal
 
 ## 4 Pillars
 
-- Abstraction Encapsulation inheritance Polymorphism
+- Abstraction 
+- Encapsulation
+- inheritance 
+- Polymorphism
